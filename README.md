@@ -1,5 +1,4 @@
-<center>![](images/wlhoo_logo_os_sm.png)</center>
-<div style="text-align:center"><img src="images/wlhoo_logo_os_sm.png" /></div>
+![](images/wlhoo_logo_os_sm.png?style=centerme)
 
 # Simple HTML Web for Show Logo 
 
