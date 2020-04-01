@@ -1,4 +1,4 @@
-![](images/wlhoo_logo_os_sm.png)
+<center>![](images/wlhoo_logo_os_sm.png)</center>
 
 # Simple HTML Web for Show Logo 
 
