@@ -1,16 +1,11 @@
 ![](images/wlhoo_logo_os_sm.png)
 
-# Simple HTML Web for Show Logo 
+# wlho-o
+WEB LOGO HTML 101: A web user interface for testing that the web service is available and displaying the company's logo as a simple website for a good image of the organization. To avoid display a 404 or a page starting from a web service.
 
-Abstract.
 
-## Installation
-
-Pre-Software Request
-
-```
-CentOS7
-```
+## Quickstart
+Just copy all the files from this GitHub to the file location used for the web service you use.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -18,4 +13,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Unlicense](https://unlicense.org)
+[Apache License 2.0](http://www.apache.org/licenses/)
