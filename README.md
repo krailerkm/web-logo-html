@@ -7,6 +7,11 @@ WEB LOGO HTML 101: A web user interface for testing that the web service is avai
 ## Quickstart
 Just copy all the files from this GitHub to the file location used for the web service you use.
 
+CentOS 7
+```
+git clone https://github.com/krailerkm/wlho-o /var/www/html/
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
