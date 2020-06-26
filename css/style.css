@@ -40,11 +40,11 @@ body :-ms-input-placeholder {
   background: -webkit-linear-gradient(top left, #ffffff 0%, #ffffff 100%);
   background: linear-gradient(to bottom right, #ffffff 0%, #ffffff 100%);
   position: absolute;
-  top: 50%;
+  /*top: 50%;*/
   left: 0;
   width: 100%;
   height: 100%;
-  margin-top: -200px;
+  /*margin-top: -200px;*/
   overflow: hidden;
 }
 .wrapper.form-success .container h1 {
@@ -54,8 +54,10 @@ body :-ms-input-placeholder {
 }
 .container {
   max-width: 600px;
+  width: 100%;
+  height: 100%;
   margin: 0 auto;
-  padding: 80px 0;
+  /*padding: 80px 0;*/
   text-align: center;
 }
 .bg-bubbles {
