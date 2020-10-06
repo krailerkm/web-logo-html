@@ -1,3 +1,4 @@
+![Docker Automated build](https://img.shields.io/docker/automated/krailerkm/wlho-o)
 ![](images/wlhoo_logo_os_sm.png)
 
 # wlho-o
